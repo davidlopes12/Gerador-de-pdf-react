@@ -1,0 +1,1 @@
+Este é um aplicativo bastante útil que permite gerar PDFs ou converter imagens em PDFs. Ele foi desenvolvido para atender à necessidade de transformação de arquivos de imagem em formato PDF. 
